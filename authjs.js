@@ -1,6 +1,9 @@
+// Author: https://github.com/rohit-chouhan/
+// License: MIT
 
 var authget = {
 		accessToken: "",
+		id: "",
 		name:"",
 		first_name:"",
 		last_name:"",
@@ -35,6 +38,7 @@ var authjs = {
 			window.at=response.authResponse.accessToken;
 			authget.accessToken=response.authResponse.accessToken;
 			FB.api('/me', 'GET', {fields: 'first_name,last_name,name,id,email'}, function(response) {
+			authget.id=response.id;
 			authget.name=response.name;
 			authget.first_name=response.first_name;
 			authget.last_name=response.last_name;
