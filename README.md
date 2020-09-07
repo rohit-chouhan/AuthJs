@@ -1,8 +1,6 @@
 # AuthJs
 Easy Social Media Login Authentication integrator
 
-![Img](https://www.cloudways.com/blog/wp-content/uploads/How-to-Add-Facebook-Login-in-PHP-Applications-Banner.jpg)
-
 #### CDN
 `authjs.min.js`
 ```sh
