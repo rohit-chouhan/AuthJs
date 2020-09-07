@@ -29,6 +29,7 @@ authjsinit() | Function which will exicute automatically when login success
 authjs.login() | Exicute the code for Login with Facebook
 authjs.logout() | Logout Facebook from your Project
 authjs.staus() | Debug & Check Status of AuthJs
+authget.obj | Get data `id, name, profile, accessToken`
 
 ### Example Code
 
