@@ -1,0 +1,23 @@
+{      
+ "name": "@rohit-chouhan/authjs",                                    
+ "version": "1.0.0",                                                    
+ "description": "Easy Social Media Login Authentication integrator",                             
+ "main": "authjs.js",                                                
+ "scripts": {                                                             
+   "test": "echo \"Error: no test specified\" && exit 1"              
+ },                                                                         
+ "keywords": [                                                            
+  "facebook login"," login"," social login"," athentication"," login with"                                                                 
+ ],                                                                         
+ "author": "Rohit Chouahn",                                             
+ "license": "MIT",                                                      
+ "repository": {                                                         
+    "type": "git",                                                     
+     "url": "git+https://github.com/rohit-chouhan/AuthJs.git"          
+ },                                                                         
+ "bugs": {                                                               
+    "url": "https://github.com/rohit-chouhan/AuthJs/issues"           
+ },                                                                        
+  "homepage": "https://github.com/rohit-chouhan/AuthJs#readme",      
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }    
+  }
