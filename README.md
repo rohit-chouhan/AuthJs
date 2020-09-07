@@ -1,6 +1,8 @@
 # AuthJs
 Easy Social Media Login Authentication integrator
 
+![authjs](https://i.ibb.co/FXCn5tR/authjs.jpg)
+
 #### CDN
 `authjs.min.js`
 ```sh
